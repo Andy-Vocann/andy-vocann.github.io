@@ -1,0 +1,25 @@
+/* Index Styles */
+.hero, .services, .aboutus, .foot{ height: 100vh; }
+
+/* Hero */
+.hero{ background: linear-gradient(to bottom right, #8C8CB1, #f48fb1); }
+
+/* Services */
+.ABM{ position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+.ABM1{ position: absolute; top: 150%; left: 25%; transform: translate(-50%, -50%); }
+.ABM2{ position: absolute; top: 150%; left: 75%; transform: translate(-50%, -50%); }
+.ABM3{ position: absolute; top: 300%; left: 50%; transform: translate(-50%, -50%); }
+.ABM4{ position: absolute; top: 400%; left: 50%; transform: translate(-50%, -50%); }
+	.servicesR > h3{ padding: 15px 0px; }
+
+/* Popup */
+.popup, .popupDM, .popupBI, .popupCA, .popupPR { height: 50vh; }
+	.popupDM{ background-color: #008FB1; }
+	.popupBI{ background-color: #F8C23D; }
+	.popupCA{ background-color: #AD8574; }
+	.popupPR{ background-color: #8C8CB1; }
+
+/* About Us */
+
+/* Footer */
+.foot{ background: linear-gradient(to bottom right, #008FB1, #F8C23D); }

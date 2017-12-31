@@ -1,0 +1,38 @@
+/* Standard Colors */
+.white{ color: white; }
+.black{ color: black; }
+.pink{ color: #f48fb1; }
+.grey{ color: #636363; }
+.blue{ color: #008FB1; }
+.violet{ color: #8C8CB1; }
+.gold{ color: #F8C23D; }
+.brown{ color: #AD8574; }
+
+/* Standard Fonts */
+.roboto{ font-family: 'Roboto', sans-serif; }
+.openSans{ font-family: 'Open Sans', sans-serif; }
+.playfair{ font-family: 'Playfair Display', serif; }
+
+/* Standard Navigation */
+::-webkit-scrollbar{ width: 12px; }
+::-webkit-scrollbar-thumb{ background-color: #f48fb1; }
+::-webkit-scrollbar-track { background-color: white; }
+
+/* Standard Body */
+body{ text-align: center; }
+h1, h2{ font-family: 'Open Sans', sans-serif; }
+h3, h4{ font-family: 'Roboto', sans-serif; }
+h1{ font-size: 5em; }
+h2{ font-size: 4em; }
+span{ font-weight: bold; }
+
+/* Standard CSS Styles */
+.TAL{ text-align: left; }
+.TAC{ text-align: center; }
+.TAR{ text-align: right; }
+
+/* Standard Bootstrap Edits */
+.row{ margin: 0; }
+.container-fluid{ padding: 0; }
+
+/* Finished */
